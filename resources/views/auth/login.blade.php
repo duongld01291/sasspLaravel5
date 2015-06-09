@@ -29,7 +29,7 @@
 						</div>
 
 						<div class="form-group">
-							<label class="col-md-4 control-label">Mật khẩu fix code</label>
+							<label class="col-md-4 control-label">Mật khẩu moi hoan toan</label>
 							<div class="col-md-6">
 								<input type="password" class="form-control" name="password">
 							</div>
